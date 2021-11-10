@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  border :solid rgb(255, 0, 221);
+  border-width: 8px;
+  
+}
